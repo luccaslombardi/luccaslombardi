@@ -13,13 +13,28 @@
 </a>
 <br><br>
 
+<h2> Languages and Tools</h2>
+<br>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>  HTML</p>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>  CSS</p>
+<p><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  Javascript</p>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>  ReactJs</p>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>  NodeJs</p>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>  Sass</p>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code> Python</p>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code> MySql</p>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code> Postgre</p>
+<p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code> Git | Github</p>
+<br><br>
+
+
 <h2>🚀 Quick Stats</h2>
 <br>
 <p align="center"> 
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=luccaslombardi&show_icons=true&theme=tokyonight" alt="luccaslombardi" />
   <img width="375" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaslombardi&langs_count=6&theme=tokyonight&layout=compact" />
 </p>
-  
+<br><br>  
 
 <h2>💻 Working on </h2>
 <br>
