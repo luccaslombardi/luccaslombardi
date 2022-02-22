@@ -16,7 +16,7 @@
 <h2> Languages and Tools</h2>
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/luccaslombardi/luccaslombardi/blob/main/code.gif?raw=true" width="500" height="430" />
+<img align="right" alt="GIF" src="https://github.com/luccaslombardi/luccaslombardi/blob/main/code.gif?raw=true" width="600" height="430" />
 
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>  HTML</p>
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>  CSS</p>
