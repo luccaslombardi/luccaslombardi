@@ -4,7 +4,7 @@
 
 <a href="https://www.instagram.com/luccas_lombardi/">
   <img align="left" alt="Luccas's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>  
+</a>
 <a href="https://www.linkedin.com/in/luccas-lombardi/">
   <img align="left" alt="Luccas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -12,4 +12,20 @@
   <img align="left" alt="Luccas's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <br><br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luccaslombardi&show_icons=true&theme=gotham" alt="luccaslombardi" />
+
+<h2>🚀 Quick Stats</h2>
+<br>
+<p align="center"> 
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=luccaslombardi&show_icons=true&theme=tokyonight" alt="luccaslombardi" />
+  <img width="375" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaslombardi&langs_count=6&theme=tokyonight&layout=compact" />
+</p>
+  
+
+<h2>💻 Working on </h2>
+<br>
+<p align="center">
+<a href="https://github.com/luccaslombardi/luccas-lombardi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luccaslombardi&repo=luccas-lombardi&show_owner=true&theme=tokyonight" />
+</a>
+</p>
+
