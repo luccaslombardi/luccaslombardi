@@ -8,7 +8,8 @@
 
 <br>
 
-<p>Follow Me </p>
+
+<p><strong>Follow Me</strong></p>
 <a href="https://www.instagram.com/luccas_lombardi/">
   <img align="left" alt="Luccas's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
