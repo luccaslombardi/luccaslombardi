@@ -1,16 +1,23 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Luccas Lombardi</h1>
 
+<h4 align="justify">
+ I'm a passionate self-taugh full stack web development from São Paulo - Brazil. <br>
+ I was a Computer Science student at Universidade São Judas Tadeu in São Paulo and I participated in several Frontend and Backend Development events, almost always performed by <a href="https://github.com/rocketseat">Rocketseat</a> 🚀.<br>
+ Currently my main hobby is to create autonomous projects using ReactJs and NodeJs, always keep learning about new technologies and good programming practices.
+ I also always seek to improve myself in the technologies that I already know and improve my knowledge 
+</h4>
 
-
-<h3 align="center"><a href="https://www.instagram.com/luccas_lombardi/">
-  <img align="middle" alt="Luccas's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<br>
+<p>Follow Me </p>
+<a href="https://www.instagram.com/luccas_lombardi/">
+  <img align="left" alt="Luccas's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/luccas-lombardi/">
-  <img align="middle" alt="Luccas's Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Luccas's Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/22e533ad6qd7zck44ydhf2omi?si=7a8d3b6edaf24c6f">
-  <img align="middle" alt="Luccas's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a></h3>
+  <img align="left" alt="Luccas's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 <br><br>
 
 <h2> Languages and Tools</h2>
