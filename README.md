@@ -3,7 +3,7 @@
 <br>
  <p>I'm a self-taugh student <strong>full stack web development</strong> 💻 from São Paulo - Brazil. <br>
  I was a <strong>Computer Science</strong> student at <strong>Universidade São Judas Tadeu</strong> in São Paulo and I participated in several Frontend and Backend Development events, almost always performed by <a href="https://github.com/rocketseat">Rocketseat</a> 🚀.<br>
- Currently my main hobby is to create autonomous projects using <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <strong>ReactJs</strong> and  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"> <strong>NodeJs</strong>, always keep learning about new technologies and good programming practices.
+ Currently my main hobby is to create autonomous projects using <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <strong>React</strong> and  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"> <strong>Node</strong>, always keep learning about new technologies and good programming practices.
  I also always seek to improve myself in the technologies that I already know and improve my knowledge about tools.</p> 
 
 <br>
@@ -27,15 +27,12 @@
 <img align="right" alt="GIF" src="https://github.com/luccaslombardi/luccaslombardi/blob/main/computer.gif?raw=true"  height="400" />
 
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>  HTML</p>
-- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>  CSS</p>
+- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>  CSS / Sass</p>
 - <p><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  Javascript</p>
-- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>  Sass</p>
-- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>  ReactJs</p>
-- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>  NodeJs</p>
-- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code> Postgre</p>
+- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>  ReactJS</p>
+- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>  NodeJS</p>
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code> Python</p>
-- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code> MySql</p>
-- <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></code> Wordpress</p>
+
 <details>
  <summary>Others</summary>
  <br>
@@ -43,6 +40,9 @@
  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"></code>
  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
+ <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+ <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+ <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></code>
  </details>
 <br><br>
 
