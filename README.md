@@ -44,7 +44,7 @@
  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></code>
  </details>
-<br><br>
+<br>
 
 
 <h2>🗃️ Experiences</h2>
