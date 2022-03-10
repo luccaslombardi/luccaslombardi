@@ -90,6 +90,7 @@
 <p align="center">
 <a href="https://github.com/luccaslombardi/luccas-lombardi">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccaslombardi&repo=luccas-lombardi&show_owner=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccaslombardi&repo=infomovies&show_owner=true&theme=tokyonight" />
 </a>
 </p>
 
