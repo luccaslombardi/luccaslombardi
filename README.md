@@ -1,6 +1,7 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Luccas Lombardi</h1>
 
 <br>
+
  <p>I'm a self-taugh student <strong>full stack web development</strong> 💻 from São Paulo - Brazil. <br>
  I was a <strong>Computer Science</strong> student at <strong>Universidade São Judas Tadeu</strong> in São Paulo and I participated in several Frontend and Backend Development events, almost always performed by <a href="https://github.com/rocketseat">Rocketseat</a> 🚀.<br>
  Currently my main hobby is to create autonomous projects using <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <strong>React</strong> and  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"> <strong>Node</strong>, always keep learning about new technologies and good programming practices.
@@ -24,11 +25,12 @@
 <h2>🛠️ Languages and Tools</h2>
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/luccaslombardi/luccaslombardi/blob/main/computer.gif?raw=true"  height="400" />
+
 
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>  HTML</p>
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>  CSS / Sass</p>
 - <p><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  Javascript</p>
+- <p><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  Typescript</p>
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>  ReactJS</p>
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>  React Native</p>
 - <p><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>  NodeJS</p>
