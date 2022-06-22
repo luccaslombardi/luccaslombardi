@@ -1,4 +1,4 @@
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Luccas Lombardi</h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  I'm Luccas Lombardi</h1>
 
 <br>
 
@@ -92,8 +92,8 @@
 <br>
 <p align="center">
 <a href="https://github.com/luccaslombardi/luccas-lombardi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luccaslombardi&repo=luccas-lombardi&show_owner=true&theme=tokyonight" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccaslombardi&repo=infomovies&show_owner=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luccaslombardi&repo=Event-Plataform&show_owner=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccaslombardi&repo=spotifyMe&show_owner=true&theme=tokyonight" />
 </a>
 </p>
 
