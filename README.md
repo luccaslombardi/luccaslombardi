@@ -4,7 +4,7 @@
 
  <p>I'm a self-taugh student <strong>full stack web development</strong> 💻 from São Paulo - Brazil. <br>
  I was a <strong>Computer Science</strong> student at <strong>Universidade São Judas Tadeu</strong> in São Paulo and I participated in several Frontend and Backend Development events, almost always performed by <a href="https://github.com/rocketseat">Rocketseat</a> 🚀.<br>
- Currently my main hobby is to create autonomous projects using <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <strong>React</strong> and  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"> <strong>Node</strong>, always keep learning about new technologies and good programming practices.
+ Currently my main hobby is to create autonomous projects using <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <strong>React</strong>, <strong>React Native</strong> and  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"> <strong>Node</strong>, always keep learning about new technologies and good programming practices.
  I also always seek to improve myself in the technologies that I already know and improve my knowledge about tools.</p> 
 
 <br>
