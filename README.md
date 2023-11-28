@@ -15,7 +15,7 @@
   <img align="left" alt="Luccas's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/luccas-lombardi/">
-  <img align="left" alt="Luccas's Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Luccas's Linkedin" width="25px" src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
 <a href="https://open.spotify.com/user/22e533ad6qd7zck44ydhf2omi?si=7a8d3b6edaf24c6f">
   <img align="left" alt="Luccas's Spotify" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />
